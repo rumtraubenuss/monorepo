@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.0.6"></a>
+## 1.0.6 (2018-07-25)
+
+
+### Bug Fixes
+
+* add different string ([5b2bf76](https://github.com/rumtraubenuss/monorepo/commit/5b2bf76))
+* change back to lowercase ([b355c4c](https://github.com/rumtraubenuss/monorepo/commit/b355c4c))
+* change string ([a94265e](https://github.com/rumtraubenuss/monorepo/commit/a94265e))
+* change to uppercase ([fb90f14](https://github.com/rumtraubenuss/monorepo/commit/fb90f14))
+
+
+
+
+
 <a name="1.0.5"></a>
 ## 1.0.5 (2018-07-25)
 
