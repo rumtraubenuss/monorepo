@@ -1,7 +1,7 @@
 {
   "name": "foo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.jsx",
   "license": "MIT",
-  "gitHead": "bbd6dc2111dbbe0fc41ab4a1ddb48e9dfae71410"
+  "gitHead": "bd5d6dcfc63a11687d6df32ba8a6db8f9c87f7d9"
 }
