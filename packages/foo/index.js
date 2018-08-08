@@ -1,2 +1,2 @@
-// annotation asdf
+// annotation asdf qewr
 module.exports = () => 'qwer';
