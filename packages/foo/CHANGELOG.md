@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.0.16"></a>
+## [1.0.16](https://github.com/rumtraubenuss/monorepo/compare/foo@1.0.15...foo@1.0.16) (2018-08-08)
+
+**Note:** Version bump only for package foo
+
+
+
+
+
 <a name="1.0.15"></a>
 ## [1.0.15](https://github.com/rumtraubenuss/monorepo/compare/foo@1.0.10...foo@1.0.15) (2018-08-08)
 
