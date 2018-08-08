@@ -1,1 +1,2 @@
+// annotation
 module.exports = () => 'qwer';
